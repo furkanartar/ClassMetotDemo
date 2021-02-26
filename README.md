@@ -1,2 +1,2 @@
-# ClassMetotDemo
-My new Homework. About Class and Metot.
+# ClassMethodDemo
+My new Homework. About Class and Method.
